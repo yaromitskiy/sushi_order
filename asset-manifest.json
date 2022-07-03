@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sushi_order/static/css/main.3335b17d.chunk.css",
+    "main.js": "/sushi_order/static/js/main.71373eb3.chunk.js",
+    "main.js.map": "/sushi_order/static/js/main.71373eb3.chunk.js.map",
+    "runtime-main.js": "/sushi_order/static/js/runtime-main.53e9c1a8.js",
+    "runtime-main.js.map": "/sushi_order/static/js/runtime-main.53e9c1a8.js.map",
+    "static/js/2.1358c3da.chunk.js": "/sushi_order/static/js/2.1358c3da.chunk.js",
+    "static/js/2.1358c3da.chunk.js.map": "/sushi_order/static/js/2.1358c3da.chunk.js.map",
+    "index.html": "/sushi_order/index.html",
+    "static/css/main.3335b17d.chunk.css.map": "/sushi_order/static/css/main.3335b17d.chunk.css.map",
+    "static/js/2.1358c3da.chunk.js.LICENSE.txt": "/sushi_order/static/js/2.1358c3da.chunk.js.LICENSE.txt",
+    "static/media/sushi.a2b4b921.jpg": "/sushi_order/static/media/sushi.a2b4b921.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53e9c1a8.js",
+    "static/js/2.1358c3da.chunk.js",
+    "static/css/main.3335b17d.chunk.css",
+    "static/js/main.71373eb3.chunk.js"
+  ]
+}
